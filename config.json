@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsperify",
+        "uuid": 10045503,
+        "checksum": "r3xjs"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
